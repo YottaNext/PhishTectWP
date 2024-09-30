@@ -2,7 +2,7 @@
 Wordpress comment plugin for anti-phishing service, Phishtect (formerly known as PhishyScan) by YottaNext.com
 
 # API Overview
-PhishyScan Anti-Phishing is a new Phishing scam detection API, using AI technology. PhishyScan easily integrates and protects email, instant messaging, and social media services.
+Phishtect Anti-Phishing is a new Phishing scam detection API, using AI technology. PhishyScan easily integrates and protects email, instant messaging, and social media services.
 
 Official Page: https://yottanext.com/products/phishyscan-anti-phishing-api/
 
